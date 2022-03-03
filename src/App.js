@@ -13,7 +13,8 @@ function App() {
         <Forecast />
       </main>
       <footer>
-        Page created by e-n-eliseev
+
+        <a href='https://github.com/e-n-eliseev/react2'>Page created by e-n-eliseev.</a>
       </footer>
     </div>
   );
