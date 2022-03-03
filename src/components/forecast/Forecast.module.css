@@ -1,3 +1,9 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .TextInput {
     font-size: large;
     border: 1px solid #eeeeee;
